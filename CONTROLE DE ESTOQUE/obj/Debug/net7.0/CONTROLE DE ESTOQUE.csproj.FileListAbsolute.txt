@@ -1,0 +1,14 @@
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\CONTROLE DE ESTOQUE\bin\Debug\net7.0\CONTROLE DE ESTOQUE.exe
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\CONTROLE DE ESTOQUE\bin\Debug\net7.0\CONTROLE DE ESTOQUE.deps.json
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\CONTROLE DE ESTOQUE\bin\Debug\net7.0\CONTROLE DE ESTOQUE.runtimeconfig.json
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\CONTROLE DE ESTOQUE\bin\Debug\net7.0\CONTROLE DE ESTOQUE.dll
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\CONTROLE DE ESTOQUE\bin\Debug\net7.0\CONTROLE DE ESTOQUE.pdb
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\CONTROLE DE ESTOQUE\obj\Debug\net7.0\CONTROLE DE ESTOQUE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\CONTROLE DE ESTOQUE\obj\Debug\net7.0\CONTROLE DE ESTOQUE.AssemblyInfoInputs.cache
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\CONTROLE DE ESTOQUE\obj\Debug\net7.0\CONTROLE DE ESTOQUE.AssemblyInfo.cs
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\CONTROLE DE ESTOQUE\obj\Debug\net7.0\CONTROLE DE ESTOQUE.csproj.CoreCompileInputs.cache
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\CONTROLE DE ESTOQUE\obj\Debug\net7.0\CONTROLE DE ESTOQUE.dll
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\CONTROLE DE ESTOQUE\obj\Debug\net7.0\refint\CONTROLE DE ESTOQUE.dll
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\CONTROLE DE ESTOQUE\obj\Debug\net7.0\CONTROLE DE ESTOQUE.pdb
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\CONTROLE DE ESTOQUE\obj\Debug\net7.0\CONTROLE DE ESTOQUE.genruntimeconfig.cache
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\CONTROLE DE ESTOQUE\obj\Debug\net7.0\ref\CONTROLE DE ESTOQUE.dll
