@@ -1,0 +1,28 @@
+C:\Users\Cleeb\Desktop\ProjetosVSC\projeto senha\bin\Debug\net7.0\projeto senha.exe
+C:\Users\Cleeb\Desktop\ProjetosVSC\projeto senha\bin\Debug\net7.0\projeto senha.deps.json
+C:\Users\Cleeb\Desktop\ProjetosVSC\projeto senha\bin\Debug\net7.0\projeto senha.runtimeconfig.json
+C:\Users\Cleeb\Desktop\ProjetosVSC\projeto senha\bin\Debug\net7.0\projeto senha.dll
+C:\Users\Cleeb\Desktop\ProjetosVSC\projeto senha\bin\Debug\net7.0\projeto senha.pdb
+C:\Users\Cleeb\Desktop\ProjetosVSC\projeto senha\obj\Debug\net7.0\projeto senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleeb\Desktop\ProjetosVSC\projeto senha\obj\Debug\net7.0\projeto senha.AssemblyInfoInputs.cache
+C:\Users\Cleeb\Desktop\ProjetosVSC\projeto senha\obj\Debug\net7.0\projeto senha.AssemblyInfo.cs
+C:\Users\Cleeb\Desktop\ProjetosVSC\projeto senha\obj\Debug\net7.0\projeto senha.csproj.CoreCompileInputs.cache
+C:\Users\Cleeb\Desktop\ProjetosVSC\projeto senha\obj\Debug\net7.0\projeto senha.dll
+C:\Users\Cleeb\Desktop\ProjetosVSC\projeto senha\obj\Debug\net7.0\refint\projeto senha.dll
+C:\Users\Cleeb\Desktop\ProjetosVSC\projeto senha\obj\Debug\net7.0\projeto senha.pdb
+C:\Users\Cleeb\Desktop\ProjetosVSC\projeto senha\obj\Debug\net7.0\projeto senha.genruntimeconfig.cache
+C:\Users\Cleeb\Desktop\ProjetosVSC\projeto senha\obj\Debug\net7.0\ref\projeto senha.dll
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\projeto senha\bin\Debug\net7.0\projeto senha.exe
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\projeto senha\bin\Debug\net7.0\projeto senha.deps.json
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\projeto senha\bin\Debug\net7.0\projeto senha.runtimeconfig.json
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\projeto senha\bin\Debug\net7.0\projeto senha.dll
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\projeto senha\bin\Debug\net7.0\projeto senha.pdb
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\projeto senha\obj\Debug\net7.0\projeto senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\projeto senha\obj\Debug\net7.0\projeto senha.AssemblyInfoInputs.cache
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\projeto senha\obj\Debug\net7.0\projeto senha.AssemblyInfo.cs
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\projeto senha\obj\Debug\net7.0\projeto senha.csproj.CoreCompileInputs.cache
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\projeto senha\obj\Debug\net7.0\projeto senha.dll
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\projeto senha\obj\Debug\net7.0\refint\projeto senha.dll
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\projeto senha\obj\Debug\net7.0\projeto senha.pdb
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\projeto senha\obj\Debug\net7.0\projeto senha.genruntimeconfig.cache
+C:\Users\Cleeb\Desktop\ProjetosVSC\dio\desafio primeiro repositorio\projeto senha\obj\Debug\net7.0\ref\projeto senha.dll
